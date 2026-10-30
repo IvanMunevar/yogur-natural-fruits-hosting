@@ -65,3 +65,12 @@ YogurNaturalFruits-Hosting/
         ├── maracuya.jpg
         ├── melocoton.jpg
         └── mora.jpg
+
+        ## Sitio publicado
+
+La landing page se encuentra desplegada públicamente mediante Netlify:
+
+- **Sitio web:** [https://yogur-natural-fruits.netlify.app](https://yogur-natural-fruits.netlify.app)
+- **Repositorio:** [https://github.com/IvanMunevar/yogur-natural-fruits-hosting](https://github.com/IvanMunevar/yogur-natural-fruits-hosting)
+
+El despliegue está conectado con la rama `main` de GitHub para realizar actualizaciones automáticas.
