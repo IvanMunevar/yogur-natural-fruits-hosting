@@ -68,7 +68,7 @@ YogurNaturalFruits-Hosting/
           
  ``` 
 
-        ## Sitio publicado
+## Sitio publicado
 
 La landing page se encuentra desplegada públicamente mediante Netlify:
 
